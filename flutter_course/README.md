@@ -3,9 +3,9 @@
 A new Flutter project.
 
 ## Project info
-- [This app creates 'Add product' button
-- [Clicking on Add product new card will be dynamically added
-- [Stateful and stateless widgets used
+- This app creates 'Add product' button
+- Clicking on Add product new card will be dynamically added
+- Stateful and stateless widgets used
 
 
 ## Getting Started
